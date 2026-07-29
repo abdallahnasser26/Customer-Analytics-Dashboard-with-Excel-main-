@@ -125,6 +125,8 @@ This project demonstrates that **Advanced Excel** is a high-performance, cost-ef
 **Abdallah Nasser**
 
 📱 **Phone:** 01123117882
+
 💼 **LinkedIn:** https://www.linkedin.com/in/abdallah-naser-75345a327
+
 💻 **GitHub:** https://github.com/abdallahnasser26
  
